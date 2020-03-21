@@ -1,0 +1,24 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "description": "learning programming javaScript",
+  "main": "\u001b[D\u001b[D)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobujrahman/Learn-Node.git"
+  },
+  "keywords": [
+    "node.js",
+    "html",
+    "css"
+  ],
+  "author": "prohor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobujrahman/Learn-Node/issues"
+  },
+  "homepage": "https://github.com/shobujrahman/Learn-Node#readme"
+}
